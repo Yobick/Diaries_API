@@ -1,0 +1,5 @@
+
+:schedule:
+  del_worker:
+    every: '10m'
+    class: DelWorker
